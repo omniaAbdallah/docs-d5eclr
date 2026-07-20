@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-e6qtbj.resultafacil.com.br/sitemap.xml
